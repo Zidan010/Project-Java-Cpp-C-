@@ -1,0 +1,103 @@
+		ADDED STUDENT
+Student id :3123  Name --> dasda
+
+COURSE-->3 AND CREDIT -->3  ADDED
+
+		ADDED FACULTY
+Faculty name-->aeea and id -->323
+
+		ADDED FACULTY
+Faculty name-->adas and id -->3121
+
+		ADDED FACULTY
+Faculty name-->das and id -->312
+
+		ADDED FACULTY
+Faculty name-->as and id -->321
+
+		ADDED FACULTY
+Faculty name-->dasda and id -->3123
+
+		ADDED FACULTY
+Faculty name-->dasda and id -->3123
+
+		ADDED FACULTY
+Faculty name-->sdas and id -->3123
+
+		ADDED STUDENT
+Student id :12312  Name --> adsas
+
+COURSE-->21321 AND CREDIT -->2131  ADDED
+
+		ADDED FACULTY
+Faculty name-->sad and id -->31231
+
+		ADDED FACULTY
+Faculty name-->dsdas and id -->2321
+
+		ADDED FACULTY
+Faculty name-->dda and id -->212
+
+		ADDED FACULTY
+Faculty name-->sdas and id -->222
+
+		ADDED FACULTY
+Faculty name-->ds and id -->22
+
+		REMOVED FACULTY
+Faculty id --> 22
+
+		ADDED FACULTY
+Faculty name-->ewq and id -->321
+
+		ADDED STUDENT
+Student id :323  Name --> dasda
+
+COURSE-->22 AND CREDIT -->22  ADDED
+
+		ADDED FACULTY
+Faculty name-->eqweq and id -->212
+
+		ADDED FACULTY
+Faculty name-->das and id -->321
+
+		ADDED FACULTY
+Faculty name-->841 and id -->21
+
+		ADDED FACULTY
+Faculty name-->dad and id -->3123
+
+		ADDED FACULTY
+Faculty name-->dasd and id -->3333
+
+		ADDED FACULTY
+Faculty name-->dasd and id -->333
+
+		ADDED FACULTY
+Faculty name-->ahmed and id -->20
+
+		REMOVED FACULTY
+Faculty id --> 20
+
+		ADDED STUDENT
+Student id :12  Name --> wert
+
+COURSE-->5 AND CREDIT -->12  ADDED
+
+		REMOVED STUDENT
+STUDENT id --> 12
+
+		ADDED FACULTY
+Faculty name-->hhhh and id -->234
+
+		REMOVED FACULTY
+Faculty id --> 234
+
+		ADDED STUDENT
+Student id :123  Name --> jjjjj
+
+COURSE-->4 AND CREDIT -->3  ADDED
+
+		REMOVED STUDENT
+STUDENT id --> 123
+

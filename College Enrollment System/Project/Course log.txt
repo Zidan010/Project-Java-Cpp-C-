@@ -1,0 +1,38 @@
+
+										Student of ID:21123 Added 333 credits.
+
+										Student of ID:212312 Dropped 3123 credits.
+
+										Student of ID:31213 Added 3123 credits.
+
+										Student of ID:3312 Dropped 3123 credits.
+
+										Student of ID:12312 Added 3123 credits.
+
+										Student of ID:dad Added 3123 credits.
+
+										Student of ID:1212 Dropped 321 credits.
+
+										Student of ID:31231 Added 312 credits.
+
+										Student of ID:123231 Dropped 232 credits.
+
+										Student of ID:12321 Dropped 31231 credits.
+
+										Student of ID:3123 Added 22 credits.
+
+										Student of ID:312312 Dropped 33 credits.
+
+										Student of ID:312 Dropped 22 credits.
+
+										Student of ID:222 Dropped 22 credits.
+
+										Student of ID:211 Added 32 credits.
+
+										Student of ID:2020 Added 2 credits.
+
+										Student of ID:2020 Dropped 2 credits.
+
+										Student of ID:123 Added 3 credits.
+
+										Student of ID:123 Dropped 1 credits.
